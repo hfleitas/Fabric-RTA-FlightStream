@@ -1,5 +1,12 @@
 # Microsoft Fabric Real-Time Analytics 
 
+## Repository Status: Archived
+
+This repository is archived and is no longer actively maintained.
+
+- No new issues, pull requests, or feature requests are being accepted.
+- Existing content remains available for reference and learning purposes.
+
 ## Flight Stream Demo ✈️
 
 ### Description
